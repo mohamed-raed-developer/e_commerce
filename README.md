@@ -4,7 +4,7 @@ Flutter E-commerce Application.
 
 ## Getting Started
 
-The video description about Jerusalem App. https://odysee.com/@Mohamed_Raed:2/jerusalem:d ||
+The video description about Jerusalem App.
 YouTube: https://www.youtube.com/watch?v=2xU7_vd9hDw
 
 The use statemanagment : GetX. || 
